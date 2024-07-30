@@ -1,1 +1,3 @@
 created feature.txt
+
+added new feature by another person
