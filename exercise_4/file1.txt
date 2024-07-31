@@ -1,2 +1,0 @@
-Exercise1 creted a new file
-modified in file1.txt
