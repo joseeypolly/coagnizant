@@ -1,9 +1,4 @@
 import java.time.LocalDate;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Map;
-import java.util.stream.Collectors;
-import java.time.LocalDate;
 
 public class SalesRecord {
     private int recordId;
@@ -95,4 +90,3 @@ public class SalesRecord {
                 '}';
     }
 }
-
